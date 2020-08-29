@@ -48,6 +48,7 @@
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* kickstart_react_nativeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = kickstart_react_nativeTests.m; sourceTree = "<group>"; };
 		0221F64F16A0E5832AD4BB30 /* libPods-kickstart_react_native-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-kickstart_react_native-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		04088D7E24FA980900661A1C /* RNSVG.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; name = RNSVG.podspec; path = "../node_modules/react-native-svg/RNSVG.podspec"; sourceTree = "<group>"; };
 		0974E3FB65BA4972BE7E3975 /* Gellix-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Gellix-SemiBold.ttf"; path = "../app/assets/fonts/Gellix-SemiBold.ttf"; sourceTree = "<group>"; };
 		11122255E2DA41F46E8FF1E6 /* libPods-kickstart_react_native-kickstart_react_nativeTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-kickstart_react_native-kickstart_react_nativeTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07F961A680F5B00A75B9A /* kickstart_react_native.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = kickstart_react_native.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -151,6 +152,7 @@
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				04088D7E24FA980900661A1C /* RNSVG.podspec */,
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
 				81D13E169BDD40311F854624 /* libPods-kickstart_react_native.a */,

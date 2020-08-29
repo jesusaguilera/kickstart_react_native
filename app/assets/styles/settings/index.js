@@ -13,6 +13,7 @@ export const settings = {
 
   $green: '#43DE78',
   $red: '#FF4D4D',
+
   // @Colors
 
   // Sizes
